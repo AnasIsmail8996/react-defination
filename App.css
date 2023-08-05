@@ -1,0 +1,45 @@
+
+
+/* body{
+    background-color: rgb(255, 249, 204);
+}
+
+div{
+    margin: 50px 10px;
+}
+
+h1{
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px lightgray;
+    text-shadow: 0px 0px 10px lightgray;
+    text-align: center;
+}
+
+p {
+    font-size: 24px;
+    background-color: white;
+    padding: 20px;
+    word-spacing: 3px;
+    line-height: 30px;
+    border-radius: 10px;   
+    box-shadow: 0px 0px 10px lightgray;
+}
+
+h1:hover,p:hover{
+    cursor: pointer;
+    background-color: rgb(255, 255, 178);
+    text-shadow: 0px 0px 1px black;
+    box-shadow: 0px 0px 10px gray;
+}
+
+span{
+    display: block;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    text-shadow: 0px 0px 5px lightgray;
+}
+
+
+ */
